@@ -1,5 +1,3 @@
-<?php 
-
-echo 'teste'.
-
+<?
+$foo = 1;
 ?>
