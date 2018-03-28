@@ -10,7 +10,7 @@ class Foo {
     }
 }
 
-?>
+
 
 
 <div>teste</div>
