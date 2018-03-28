@@ -1,17 +1,5 @@
-<html>
-
 <?php 
 
-class Foo {
-    public function bar($param)  {
-        if ($param === 42) {
-            exit(23);
-        }
-    }
-}
+echo 'teste'.
 
-
-
-
-<div>teste</div>
-</html>
+?>
